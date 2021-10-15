@@ -6,6 +6,8 @@ Also, I'm interested in Go and Javascript
 
 📫 How to reach me: ilya.umanets.web@gmail.com
 
+![](https://www.codewars.com/users/IlyaUmanets/badges/large)
+
  ![](https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif)
 
 <!--
