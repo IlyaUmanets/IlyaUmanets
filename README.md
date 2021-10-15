@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi folks! 👋
+
+My name is Ilya Umanets. I'm Ruby on Rails Developer
+
+Also, I'm interested in Go and Javascript
+
+📫 How to reach me: ilya.umanets.web@gmail.com
+
+ ![](https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif)
 
 <!--
 **IlyaUmanets/IlyaUmanets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
